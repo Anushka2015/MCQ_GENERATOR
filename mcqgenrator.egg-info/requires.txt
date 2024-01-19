@@ -1,13 +1,6 @@
 openai
 huggingface
-huggingface_hub
-transformers
 langchain
 streamlit
 python-dotenv
 PyPDF2
-accelerate
-bitsandbytes
-
-
--e .
